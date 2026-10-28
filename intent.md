@@ -17,3 +17,6 @@ TODO: specify useful positive and negative examples; add the JSON contract descr
 
 ## Verification
 TODO: explain how to verify the result and when to ask the user for approval.
+
+## Setup test
+Task: compute 1+1. Result: `{"answer":2}`
